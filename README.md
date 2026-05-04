@@ -1,18 +1,35 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hey there, I'm Leonardo! 👋
 
-###
+### 🇧🇷 | 🇺🇸 Software Engineering Student & Full-Stack Developer
 
-<p align="left">Welcome!! My name is Leonardo</p>
+Atualmente cursando **Engenharia de Software na UNICID**, estou focado em construir soluções escaláveis e eficientes. Meu foco principal é o desenvolvimento **Full-Stack**, com forte inclinação para o ecossistema **Python**.
 
-###
+Currently pursuing a degree in **Software Engineering at UNICID**, I am focused on building scalable and efficient solutions. My primary focus is **Full-Stack development**, with a strong affinity for the **Python** ecosystem.
 
-<p align="left">São paulo, SP<br>Software engineer 👨🏽‍💻<br>📚 Full Stack🎯</p>
+---
 
-###
+### 🛠️ Tech Stack
 
-<p align="left">Contato:<br>📑LinkedIn:  www.linkedin.com/in/<br>lleonardodev<br>📧 Email: Leonardoaugustofr1@gmail.com</p>
+*   **Backend:** Python (Flask).
+*   **Frontend:** JavaScript, HTML5, CSS3.
+*   **Database:** MySQL & Relational Modeling.
+*   **Tools:** Git, GitHub, Dark Mode UI Design.
 
-###
+---
+
+
+
+### 📈 Career Goal / Objetivo de Carreira
+
+Busco evoluir como **Engenheiro de Software**, focando em boas práticas de código (Clean Code), performance e arquitetura de sistemas. Tenho facilidade com documentação técnica em inglês e resolução de problemas complexos.
+
+---
+
+### 📫 Let's Connect
+
+*   **Portfolio:** [https://lleonardo-dev.github.io/My-Portifolio/]
+*   **LinkedIn:** [https://www.linkedin.com/in/lleonardodev/]
+*   **Email:** leonardoaugustofr1@gmail.com
 
 <h2 align="left">I code with</h2>
 
