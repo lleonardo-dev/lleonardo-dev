@@ -33,7 +33,7 @@ Currently focused on **Python, n8n, APIs, and LLM integration** — building aut
 ## 🚀 Featured project
 
 **Production n8n Automation** — user relationship workflow currently running in production, with batch processing, rate-limit handling, and spreadsheet export/reporting.
-> *(link the repo or a write-up here — even a private-safe overview repo helps a lot for recruiters)*
+
 
 ## 📚 Currently learning
 
