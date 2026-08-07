@@ -1,58 +1,53 @@
-# Hey there, I'm Leonardo! 👋
+# Hey there, I'm Leonardo 👋
 
-### 🇧🇷 | 🇺🇸 Software Engineering Student & Full-Stack Developer
+**IT Professional & Automation Developer** — building AI-powered workflows and full-stack solutions.
 
-Atualmente cursando **Engenharia de Software na UNICID**, estou focado em construir soluções escaláveis e eficientes. Meu foco principal é o desenvolvimento **Full-Stack**, com forte inclinação para o ecossistema **Python**.
-
-Currently pursuing a degree in **Software Engineering at UNICID**, I am focused on building scalable and efficient solutions. My primary focus is **Full-Stack development**, with a strong affinity for the **Python** ecosystem.
+🇧🇷 PT-BR | 🇺🇸 EN below
 
 ---
 
-### 🛠️ Tech Stack
+## 🇧🇷 Sobre mim
 
-*   **Backend:** Python (Flask).
-*   **Frontend:** JavaScript, HTML5, CSS3.
-*   **Database:** MySQL & Relational Modeling.
-*   **Tools:** Git, GitHub, Dark Mode UI Design.
+Atuo em TI e estou migrando para **Automação com IA**, com um workflow **n8n em produção** rodando na empresa onde trabalho (automação de relacionamento com usuários). Cursando **Engenharia de Software na UNICID** e o bootcamp **Rust AI Developer (Santander 2026 / DIO)**.
 
----
+Foco atual: **Python, n8n, APIs e integração com LLMs** para construir automações que resolvem problemas reais — não só protótipos de curso.
 
+## 🇺🇸 About me
 
+IT professional transitioning into **AI & Automation Engineering**, with a **production n8n workflow** running at my company (user relationship automation). Currently studying **Software Engineering (UNICID)** and the **Rust AI Developer bootcamp (Santander 2026 / DIO)**.
 
-### 📈 Career Goal / Objetivo de Carreira
-
-Busco evoluir como **Engenheiro de Software**, focando em boas práticas de código (Clean Code), performance e arquitetura de sistemas. Tenho facilidade com documentação técnica em inglês e resolução de problemas complexos.
+Currently focused on **Python, n8n, APIs, and LLM integration** — building automations that solve real problems, not just course exercises.
 
 ---
 
-### 📫 Let's Connect
+## 🛠️ Tech Stack
 
-*   **Portfolio:** [https://lleonardo-dev.github.io/My-Portifolio/]
-*   **LinkedIn:** [https://www.linkedin.com/in/lleonardodev/]
-*   **Email:** leonardoaugustofr1@gmail.com
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<h2 align="left">I code with</h2>
+## 🚀 Featured project
 
-###
+**Production n8n Automation** — user relationship workflow currently running in production, with batch processing, rate-limit handling, and spreadsheet export/reporting.
+> *(link the repo or a write-up here — even a private-safe overview repo helps a lot for recruiters)*
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-</div>
+## 📚 Currently learning
 
-###
+- Rust AI Developer — Santander 2026 Bootcamp (DIO)
+- Orchestration: n8n / CrewAI / LangChain
+- RAG architecture & LLM evaluation
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+## 📊 GitHub Metrics
 
-###
+<!--START_SECTION:metrics-->
+<!-- Configure via github.com/lowlighter/metrics GitHub Action -->
+<!--END_SECTION:metrics-->
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lleonardo-dev.github.io/My-Portifolio)
